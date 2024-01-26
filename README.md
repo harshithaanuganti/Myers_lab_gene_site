@@ -29,9 +29,11 @@ npm run serve
 3. **Running the Application**
 
 Access the app at http://localhost:8080 in your web browser.
+
 ![Alt text](image.png)
 
-Enter the gene name in the search box.Click the "Search" button to view the gene's effect size and the distribution histogram.
+Enter the gene name in the search box.Click the "Search" button to view the gene's effect size and the distribution histogram.Note that the red line in the histogram indicates where the searched gene's effect size lies in the distribution.
+
 ![Alt text](image-1.png)
 
 
