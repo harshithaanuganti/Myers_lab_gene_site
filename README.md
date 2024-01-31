@@ -34,6 +34,6 @@ Access the app at http://localhost:8080 in your web browser.
 
 Enter the gene name in the search box.Click the "Search" button to view the gene's effect size and the distribution histogram.Note that the red line in the histogram indicates where the searched gene's effect size lies in the distribution.
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
 
 
